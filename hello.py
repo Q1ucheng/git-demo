@@ -7,3 +7,5 @@ print('hello hotfix test!')
 print('hello! master test')
 print('hello!')
 print('hotfix!')
+
+print("I can edit code on Github!")
